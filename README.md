@@ -1,7 +1,9 @@
 Guide for Fashion Brands: Sales & Revenue Analysis
+
 This project explores how fashion brands can leverage data to optimize their sales strategies and increase revenue using data visualization techniques. 
 
 Project Overview
+
 Using a dataset containing 18 variables (dimensions and measures) , this research analyzes various factors such as seasonality, location, and customer demographics to provide actionable business insights for clothing brands. 
 
 Tools & Techniques

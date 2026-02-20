@@ -30,7 +30,7 @@ Inventory & Sizing: Data shows Size M (1,755 purchases) is the most common, whil
 
 Seasonal Trends: Using dot plots to visualize item popularity by season helps in planning production and timing discounts for remaining stock. 
 
-🔗 Live Interactive Dashboard
+Live Interactive Dashboard
 You can view the full interactive analysis on Tableau Public:
 
-View Tableau Project
+[View Tableau Project](https://public.tableau.com/views/GuideforFashionBrands/GuideforFashionBrands?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)

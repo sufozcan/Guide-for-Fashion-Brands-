@@ -1,16 +1,16 @@
-Guide for Fashion Brands: Sales & Revenue Analysis
+# Guide for Fashion Brands: Sales & Revenue Analysis
 
 This project explores how fashion brands can leverage data to optimize their sales strategies and increase revenue using data visualization techniques. 
 
-Project Overview
+## Project Overview
 
 Using a dataset containing 18 variables (dimensions and measures) , this research analyzes various factors such as seasonality, location, and customer demographics to provide actionable business insights for clothing brands. 
 
-Tools & Techniques
+## Tools & Techniques
 
 Tableau: Used for data visualization and creating interactive dashboards. 
 
-Data Preprocessing: 
+## Data Preprocessing: 
 
 - Handled missing values using IFNULL. 
 - Performed outlier detection and duplicate checks. 
@@ -19,7 +19,7 @@ Data Preprocessing:
 
 Statistical Analysis: Calculated descriptive statistics including mean, median, and standard deviation for age and purchase amounts. 
 
-Key Insights & Business Questions
+## Key Insights & Business Questions
 
 The analysis seeks to answer 7 critical business questions: 
 
@@ -33,7 +33,7 @@ Inventory & Sizing: Data shows Size M (1,755 purchases) is the most common, whil
 
 Seasonal Trends: Using dot plots to visualize item popularity by season helps in planning production and timing discounts for remaining stock. 
 
-Live Interactive Dashboard
+## Live Interactive Dashboard
 
 You can view the full interactive analysis on Tableau Public:
 

@@ -20,6 +20,7 @@ Data Preprocessing:
 Statistical Analysis: Calculated descriptive statistics including mean, median, and standard deviation for age and purchase amounts. 
 
 Key Insights & Business Questions
+
 The analysis seeks to answer 7 critical business questions: 
 
 Age-Based Strategy: Focusing on a specific age group is less effective than catering to item preferences within those groups (e.g., shirts for the 18-35 group vs. jewelry for the 54-70 group). 
@@ -33,6 +34,7 @@ Inventory & Sizing: Data shows Size M (1,755 purchases) is the most common, whil
 Seasonal Trends: Using dot plots to visualize item popularity by season helps in planning production and timing discounts for remaining stock. 
 
 Live Interactive Dashboard
+
 You can view the full interactive analysis on Tableau Public:
 
 [View Tableau Project](https://public.tableau.com/views/GuideforFashionBrands/GuideforFashionBrands?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
